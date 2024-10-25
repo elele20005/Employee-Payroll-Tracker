@@ -1,4 +1,4 @@
-# 03 JavaScript: Employee Payroll Tracker
+# JavaScript: Employee Payroll Tracker
 
 ## Your Task
 
